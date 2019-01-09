@@ -1576,7 +1576,7 @@ body {
   flex-direction: column;
 }
 .cid-reBTOrCe7J .mbr-text {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-reBTOrCe7J .input-wrap,
 .cid-reBTOrCe7J .form-group {
@@ -1635,7 +1635,7 @@ body {
 .cid-reDuIXwgo2 {
   background: linear-gradient(to right, #ffffff, #6dd5fa, #2980b9);
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-reDuIXwgo2 .mbr-text {
@@ -1682,5 +1682,8 @@ body {
   }
 }
 .cid-reDuIXwgo2 .links {
+  color: #efefef;
+}
+.cid-reDuIXwgo2 P {
   color: #ffffff;
 }
