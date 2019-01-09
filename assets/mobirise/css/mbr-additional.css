@@ -863,6 +863,8 @@ body {
 }
 .cid-repa7rjItl {
   background: linear-gradient(to right, #ffffff, #6dd5fa, #2980b9);
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #52e5e5;
 }
 .cid-repa7rjItl .mbri-down {
@@ -899,7 +901,7 @@ body {
 }
 @media (max-width: 991px) {
   .cid-repa7rjItl .mbr-figure {
-    margin-top: 60px;
+    margin-top: 2rem;
   }
 }
 @media (max-width: 767px) {
